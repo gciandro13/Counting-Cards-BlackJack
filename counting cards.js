@@ -39,7 +39,7 @@ function cc(card) {
   // I can only change code above this line
 }
 
-console.log(cc(2));
+cc(2);
 console.log(cc(3));
 console.log(cc(7));
 console.log(cc('K'));
